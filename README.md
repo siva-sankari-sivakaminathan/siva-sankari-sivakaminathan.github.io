@@ -2,7 +2,7 @@
 
 This is my portfolio interactive website.The website has important information about me including my work experience , projects , education details and recommendations. 
 
-📸 View website here --> [Siva's Portfolio](#https://sivasankari.netlify.app/)
+📸 View website here --> [Siva's Portfolio](https://sivasankari.netlify.app/)
 
 I built this website using the dynamic duo of HTML and CSS for its core structure and visual style.  
 
